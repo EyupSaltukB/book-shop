@@ -9,7 +9,7 @@ Dinamik fonksiyonlarla donatılmış e - ticaret sitesi projesi.
 • HTML
 • CSS
 • JSON
-
+kullanıldı.
 
 
 <h3>Ekran Görüntüleri</h3>
