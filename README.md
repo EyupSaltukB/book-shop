@@ -4,7 +4,11 @@ Dinamik fonksiyonlarla donatılmış e - ticaret sitesi projesi.
 
 <h2> Kullanılan Teknolojiler</h2>
 
-JavaScript, HTML, CSS ve JSON kullanıldı.
+• JavaScript
+• HTML
+• CSS
+• JSON
+
 
 
 <h3>Ekran Görüntüleri</h3>
