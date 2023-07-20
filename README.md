@@ -1,6 +1,7 @@
 <h1>Book Shop E - Ticaret Projesi</h1>
 
 Dinamik fonksiyonlarla donatılmış e - ticaret sitesi projesi.
+(E-commerce site project equipped with dynamic functions.)
 
 <h2> Kullanılan Teknolojiler</h2>
 
