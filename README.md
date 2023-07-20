@@ -1,4 +1,4 @@
-<h1>Book Shop - E - Ticaret Projesi</h1>
+<h1>Book Shop E - Ticaret Projesi</h1>
 
 Dinamik fonksiyonlarla donatılmış e - ticaret sitesi projesi.
 
